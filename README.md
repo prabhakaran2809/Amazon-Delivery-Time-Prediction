@@ -44,7 +44,7 @@ The **Streamlit app** predicts delivery times using **CatBoost** and **LightGBM*
 ## 💻 Tech Stack
 - **Programming Language:** Python
 - **Libraries/Frameworks:**
-  - **Machine Learning:** Scikit-learn, CatBoost, LightGBM, XGBoost, Random Forest, Gradient Boosting
+  - **Machine Learning:**  Linear Regression, CatBoost, LightGBM, XGBoost, Random Forest, Gradient Boosting
   - **Model Tracking:** MLflow
   - **Web Application:** Streamlit
   - **Data Processing:** Pandas, NumPy
